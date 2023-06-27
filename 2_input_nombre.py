@@ -12,7 +12,7 @@ Hola Alfredo Altamirano, naciste en 1986
 '''
 
 nombre = input("Dame tu nombre: ")
-apellido = input("Escribe tu appelido paterno ")
+apellido = input("Escribe tu apellido paterno: ")
 edad = input("Escribe tu edad: ")
 year = 2023 - int(edad)
 
